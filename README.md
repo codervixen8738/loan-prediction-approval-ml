@@ -51,3 +51,24 @@ loan-approval-prediction-ml/
 ├── README.md
 ├── .gitignore
 └── LICENSE
+
+
+## 📊 Exploratory Data Analysis
+
+- Correlation heatmaps used to analyze numerical feature relationships
+- Identified strong predictors such as:
+  - loan_percent_income
+  - income_to_loan_ratio
+- Helped verify absence of severe multicollinearity
+
+<img width="1920" height="1140" alt="image" src="https://github.com/user-attachments/assets/900eaecd-37a1-4ca0-9dc2-3ae2b63c3081" />
+
+<img width="1920" height="1140" alt="image" src="https://github.com/user-attachments/assets/edd0770b-ef2e-4d88-b85c-865bdc9483ed" />
+
+<img width="1920" height="1140" alt="image" src="https://github.com/user-attachments/assets/db88d335-f781-441d-8bfd-9ba27531b41c" />
+
+
+
+
+
+

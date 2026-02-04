@@ -67,6 +67,9 @@ loan-approval-prediction-ml/
 
 <img width="1920" height="1140" alt="image" src="https://github.com/user-attachments/assets/db88d335-f781-441d-8bfd-9ba27531b41c" />
 
+<img width="1920" height="1140" alt="image" src="https://github.com/user-attachments/assets/7938538b-6a13-4ff6-87e0-1cc255df957b" />
+
+
 
 
 
